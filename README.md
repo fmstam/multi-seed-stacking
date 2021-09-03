@@ -1,1 +1,1 @@
-# data_science
+# Generalized Stacking for regression
